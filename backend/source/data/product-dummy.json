@@ -1,57 +1,29 @@
 [
   {
-    "name": "frisian flag",
-    "brand": "bendera",
-    "description": "",
-    "price": 20000,
-    "category": "skm",
-    "_id": "0a189960ba414a6babd368c3e8f1f852"
+    "_id": "7853aec4715b4fa1942d1a95c8e0f357",
+    "barcode": "8991001000019",
+    "name": "Frisian Flag Sweetened Condensed Milk",
+    "brand": "Frisian Flag",
+    "description": "Sample dairy product for EAN-13 scanner testing.",
+    "price": 18000,
+    "category": "Dairy"
   },
   {
-    "name": "frisian flag",
-    "brand": "bendera",
-    "description": "",
-    "price": 20000,
-    "category": "skm",
-    "_id": "706b010e6f3f4d23bf260b4638c5da2f"
+    "_id": "ce0a4d8f8f994ec0b102f234ed62fb4a",
+    "barcode": "8991001000026",
+    "name": "Indomie Mi Goreng",
+    "brand": "Indomie",
+    "description": "Sample grocery item for barcode lookup.",
+    "price": 3500,
+    "category": "Instant Noodles"
   },
   {
-    "name": "frisian flag",
-    "brand": "bendera",
-    "description": "",
-    "price": 20000,
-    "category": "skm",
-    "_id": "4c383097b79449e99cf0634abf0f1d2a"
-  },
-  {
-    "name": "frisian flag",
-    "brand": "bendera",
-    "description": "",
-    "price": 20000,
-    "category": "skm"
-  },
-  {
-    "name": "frisian flag",
-    "brand": "bendera",
-    "description": "",
-    "price": 20000,
-    "category": "skm",
-    "_id": "7063c9ab032c406dbde767b0b5ce863e"
-  },
-  {
-    "name": "frisian flag",
-    "brand": "bendera",
-    "description": "",
-    "price": 20000,
-    "category": "skm",
-    "_id": "4b5031340afb4b0c92faad5cf6e419ea"
-  },
-  {
-    "name": "frisian flag",
-    "brand": "bendera",
-    "description": "",
-    "price": 20000,
-    "category": "skm",
-    "_id": "1bed4c311aca4f26a86d954088edb404"
+    "_id": "1e1e1afbef5e4cb485bc7028c88f5d26",
+    "barcode": "1234567890128",
+    "name": "Google Image Example",
+    "brand": "Google",
+    "description": "Sample product for EAN-13 scanner testing",
+    "price": 1000000,
+    "category": "Image"
   }
 ]
