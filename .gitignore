@@ -2,6 +2,7 @@ __pycache__/
 venv/
 .env
 .codex
+node_modules/
 frontend/node_modules/
 frontend/dist/
 
